@@ -17,7 +17,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### The challenge
 
-(./design/desktop-preview.jpg)
+![Original Design](./design/desktop-preview.jpg)
 
 Users should be able to:
 
@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop]](./images/screenshot.jpg)
+![Desktop](./images/screenshot.jpg)
 
 ### Links
 
