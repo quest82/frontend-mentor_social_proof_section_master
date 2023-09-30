@@ -9,9 +9,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Built with](#built-with)
-- [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Author](#author) 
 
 ## Overview
 
@@ -30,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://quest82.github.io/frontend-mentor_social_proof_section_master/https://quest82.github.io/frontend-mentor_social_proof_section_master/) 
 
 ## Built with
 
