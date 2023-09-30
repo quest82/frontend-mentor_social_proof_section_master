@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://quest82.github.io/frontend-mentor_social_proof_section_master/https://quest82.github.io/frontend-mentor_social_proof_section_master/) 
+- Live Site URL: [Add live site URL here](https://quest82.github.io/frontend-mentor_social_proof_section_master/) 
 
 ## Built with
 
